@@ -1,4 +1,3 @@
-```md
 # IT-Connect
 
 Helping small businesses understand their software, reduce ongoing costs,
@@ -33,4 +32,3 @@ change anything.
 The easiest way to get in touch is via Facebook Messenger.
 
 Search for **IT-Connect** on Facebook and send a message.
-```
